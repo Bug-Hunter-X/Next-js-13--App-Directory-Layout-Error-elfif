@@ -1,0 +1,2 @@
+# Next.js 13+ App Directory Layout Issue
+This repository demonstrates a common error encountered when using the app directory in Next.js 13 and above. The error arises from missing layouts for pages within the app directory.  This can be fixed by adding appropriate layouts.
